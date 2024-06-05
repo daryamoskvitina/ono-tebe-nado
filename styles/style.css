@@ -107,11 +107,10 @@ html {
   position: relative;
   z-index: 1;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   gap: 79px;
   margin-top: 128px;
-  padding-top: 0;
 }
 
 .cover__description-text {
@@ -123,7 +122,6 @@ html {
 }
 
 .bet-button {
-  width: 256px;
   width: 256px;
   height: 51px;
   border: 1px solid;
